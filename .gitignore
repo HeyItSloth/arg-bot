@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-node_modules
-config.json
-=======
 .eslintrc.json
 database.sqlite
 config.json
 node_modules
->>>>>>> 831a87e (New Init)

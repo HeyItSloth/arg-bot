@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "arg-bot",
 	"version": "1.0.0",
 	"description": "",
@@ -24,25 +23,3 @@
 	  "eslint": "^8.23.1"
 	}
   }
-=======
-  "name": "argbot",
-  "version": "1.0.0",
-  "description": "",
-  "main": "bot.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Sloth",
-  "license": "ISC",
-  "dependencies": {
-    "@discordjs/rest": "^1.1.0",
-    "chalk": "^4.1.2",
-    "discord.js": "^14.3.0",
-    "sequelize": "^6.23.0",
-    "sqlite3": "^5.1.1"
-  },
-  "devDependencies": {
-    "eslint": "^8.23.1"
-  }
-}
->>>>>>> 831a87e (New Init)
